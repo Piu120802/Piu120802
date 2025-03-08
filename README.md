@@ -10,13 +10,13 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyasadakal&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Piu120802&show_icons=true&theme=dark)  
 
 🔥 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyasadakal&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piu120802&layout=compact&theme=dark)  
 
 📈 **GitHub Profile Summary**  
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyasadakal&theme=dark)  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piu120802&theme=dark)  
 
 ---
 
@@ -25,7 +25,7 @@
 - 📖 Love to **teach** and share knowledge.  
 - 🤝 Let’s connect and grow together!  
 
-🔗 **Find me on GitHub:** [GitHub Profile](https://github.com/priyasadakal)  
+🔗 **Find me on GitHub:** [GitHub Profile](https://github.com/Piu120802)  
 
 ---
 

@@ -10,7 +10,7 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Piu120802&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piu120802&show_icons=true&theme=dark)  
 
 🔥 **Most Used Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piu120802&layout=compact&theme=dark)  

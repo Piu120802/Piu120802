@@ -10,13 +10,13 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piu120802&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-Sadakal&show_icons=true&theme=dark)  
 
 🔥 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piu120802&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Sadakal&layout=compact&theme=dark)  
 
 📈 **GitHub Profile Summary**  
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piu120802&theme=dark)  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priya-Sadakal&theme=dark)  
 
 ---
 
@@ -25,17 +25,17 @@
 - 📖 Love to **teach** and share knowledge.  
 - 🤝 Let’s connect and grow together!  
 
-🔗 **Find me on GitHub:** [GitHub Profile](https://github.com/Piu120802)  
+🔗 **Find me on GitHub:** [GitHub Profile](https://github.com/Priya-Sadakal)  
 
 ---
 
 🌟 _“Code, Learn, and Inspire!”_ ✨  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piu120802&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piu120802&layout=compact&theme=dark)
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piu120802&theme=dark)
-![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piu120802&theme=dark)
-![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piu120802&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-Sadakal&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Sadakal&layout=compact&theme=dark)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priya-Sadakal&theme=dark)
+![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priya-Sadakal&theme=dark)
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priya-Sadakal&theme=dark)
 
 
 

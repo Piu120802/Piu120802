@@ -1,19 +1,11 @@
-## Hi there 👋
+Priya Sadakal 🚀
+Dedicated Coder | Java Expert | Educator
+💻 About Me:
 
-<!--
-**Piu120802/Piu120802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about coding and problem-solving.
+Mastered Java and experienced in building efficient and scalable applications.
+Have teaching experience, helping others understand programming concepts.
+Constantly learning and exploring new technologies.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piu120802&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piu120802&layout=compact&theme=dark)
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piu120802&theme=dark)
